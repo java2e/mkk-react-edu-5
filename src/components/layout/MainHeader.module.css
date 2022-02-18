@@ -1,0 +1,23 @@
+.header {
+    height: 5rem;
+    padding: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #e71fbc;
+  }
+  
+  .header h1 {
+    color: white;
+  }
+  
+  .header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .header li {
+      color:white;
+      height: 1rem;
+  }
